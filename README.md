@@ -2,8 +2,10 @@
 To develop a UiPath workflow that takes a user’s name as input and displays a custom welcome message using a Switch case. If the input is "RAM", it should display "Welcome Mr. Ramachandran", else display different messages for each name, and a default message for other names.
 
 # SOFTWARE REQUIRED:
+```
 UiPath Studio (2021 or later version recommended)
 Windows Operating System
+```
 
 # PROCEDURE:
 ```
