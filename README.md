@@ -1,3 +1,7 @@
+# UiPath-Experiment-3
+# Date:12/05/2025
+# Register No.:212224040346
+# Name: Syed Abu Hanifa. L
 # AIM:
 To develop a UiPath workflow that takes a user’s name as input and displays a custom welcome message using a Switch case. If the input is "RAM", it should display "Welcome Mr. Ramachandran", else display different messages for each name, and a default message for other names.
 
